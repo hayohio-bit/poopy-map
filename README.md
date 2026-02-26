@@ -108,7 +108,7 @@ poopy-map/
   **1. Repository Clone**
   
   ```Bash
-  git clone [https://github.com/organization/poopy-map.git](https://github.com/organization/poopy-map.git)
+  git clone https://github.com/hayohio-bit/poopy-map.git
   ```
   
   **2. Client Setup**
